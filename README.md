@@ -6,7 +6,7 @@ Steps to begin with Ionic Vue Quickstart Template:
 
 1. Clone the Repository:
 ```
-git clone https://github.com/your-username/ionic-vue-quickstart.git
+git clone https://github.com/cappll-lucia/ionic-vue-quickstart.git
 ```
 
 2. Install Dependencies:
