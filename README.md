@@ -25,7 +25,8 @@ Sart coding your Ionic Vue app by modifying the files located in the src directo
 
 
 
-## Building web version 
+## Production
+### Building web version 
 ``` bash
 # Install dependencies
 npm install
@@ -38,7 +39,7 @@ ionic build
 
 ```
 
-## Building android app 
+### Building android app 
 > Previous step: Build web version
 
 ``` bash
