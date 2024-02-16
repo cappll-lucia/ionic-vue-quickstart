@@ -38,7 +38,7 @@ ionic build
 
 ```
 
-### Building android app 
+## Building android app 
 > Previous step: Build web version
 
 ``` bash
